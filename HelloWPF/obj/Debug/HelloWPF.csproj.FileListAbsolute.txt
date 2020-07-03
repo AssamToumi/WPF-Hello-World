@@ -1,0 +1,26 @@
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojResolveAssemblyReference.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.Cache
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+C:\Users\telerik\Documents\Visual Studio 2012\Projects\Pluralsight\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb
+B:\Sources\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe.config
+B:\Sources\HelloWPF\HelloWPF\bin\Debug\HelloWPF.exe
+B:\Sources\HelloWPF\HelloWPF\bin\Debug\HelloWPF.pdb
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csprojAssemblyReference.cache
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\MainWindow.baml
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\MainWindow.g.cs
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\App.g.cs
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF_MarkupCompile.cache
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.g.resources
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.Properties.Resources.resources
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.csproj.GenerateResource.cache
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.exe
+B:\Sources\HelloWPF\HelloWPF\obj\Debug\HelloWPF.pdb
